@@ -1,0 +1,19 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://8savinvladimir8@github.com/8savinvladimir8/CourseReact-L01-test1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8savinvladimir8/CourseReact-L01-test1/issues"
+  },
+  "homepage": "https://github.com/8savinvladimir8/CourseReact-L01-test1#readme"
+}
